@@ -1,6 +1,6 @@
 let myProfile = {
     name: "Alan Rios",
-    photo: "alan.jpg", 
+    photo: "alan.jfif", 
     favoriteFoods: [
       'Sushi',
       'Pizza',
