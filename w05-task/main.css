@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+#temples {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 16px;
+}
+
+article {
+    border: 1px solid #ddd;
+    padding: 16px;
+    background-color: #fff;
+}
+
+article h3 {
+    margin: 0 0 8px;
+}
+
+article img {
+    max-width: 100%;
+    display: block;
+}
